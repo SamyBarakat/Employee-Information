@@ -9,8 +9,6 @@ import java.util.Scanner;
 
 /*
 
-// Should print Name of Employee, their Sector, their Position, their Earnings
-
 Instructions:
 
 Imagine you are an employer assigning information to your new employee. 
